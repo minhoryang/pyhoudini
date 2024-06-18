@@ -9,5 +9,5 @@ setup(
     url='https://github.com/zacharyvoase/pyhoudini',
     py_modules=['houdini'],
     license='Public Domain',
-    long_description=open('README.rst').read().decode('utf-8'),
+    long_description=open('README.rst').read(),
 )
